@@ -1,9 +1,10 @@
+import Navbar from './components/Header/Header'
 
 const App = () => {
   return (
-    <div>
-      
-    </div>
+    <main>
+      <Navbar/>
+    </main>
   )
 }
 
